@@ -16,7 +16,7 @@ public class DemogitJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("my first js");
-         System.out.println("arsh");
+       //  System.out.println("arsh");
         int a;
         
     }
